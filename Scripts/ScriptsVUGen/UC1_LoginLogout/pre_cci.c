@@ -1,4 +1,4 @@
-# 1 "f:\\git\\controller_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c"
+# 1 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c"
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
@@ -966,7 +966,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "f:\\git\\controller_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
+# 1 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
 
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
@@ -1132,7 +1132,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "f:\\git\\controller_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
+# 2 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
 
 # 1 "globals.h" 1
 
@@ -2589,14 +2589,14 @@ void
  
 
 
-# 3 "f:\\git\\controller_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
+# 3 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "f:\\git\\controller_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
+# 4 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2738,8 +2738,7 @@ Action()
  
  
     
-	web_reg_find("Text=<B>{UserFName} {UserLName}","LAST");
-	web_reg_find("Text=Flight Transaction Summary","LAST");
+	web_reg_find("Text=Itinerary","LAST");
 	
 	web_url("Itinerary Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", 
@@ -2777,12 +2776,12 @@ Action()
 
 	return 0;
 }
-# 5 "f:\\git\\controller_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
+# 5 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "f:\\git\\controller_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
+# 6 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc1_loginlogout\\\\combined_UC1_LoginLogout.c" 2
 

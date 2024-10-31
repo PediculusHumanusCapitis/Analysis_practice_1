@@ -6,7 +6,7 @@ IsSummaryData=0
 TimeFormat=0
 SesLang=RUS
 ABuild=0
-DataBaseName=resu228217037DB
+DataBaseName=resu300674474DB
 DBType=1
 CurrServer=DESKTOP-75HJ5OI
 CurrUser=sa
@@ -38,13 +38,13 @@ FEndTime=0
 
 [Result0]
 LRRID=
-ResultPath=F:\Git\Analysis_practice_1\Analysis\results_debugging_test\results_debugging_test.lrr
+ResultPath=f:\Git\Analysis_practice_1\Analysis\results_debugging_test\results_debugging_test.lrr
 ResultTDPath=
 NumFilters=0
 ScenarioTimeZone=-14400
 DaylightSavingSecsAddition=0
-ScenarioStartTime=1730243369
-ScenarioEndTime=1730244874
+ScenarioStartTime=1730375079
+ScenarioEndTime=1730376584
 ResInSD=0
 WebGran=0
 FilterEdge=0
@@ -59,7 +59,7 @@ Schedule Name=Schedule 1
 Mode=Scenario Scheduling
 Load Behavior=Initialize each Vuser just before it runs
 Scenario Duration=Start 10 Vusers: 1 every 00:00:18 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Stop all Vusers simultaneously
-NumGraphs=5
+NumGraphs=14
 
 [DimensionFunctions]
 DimeFuncCount=1

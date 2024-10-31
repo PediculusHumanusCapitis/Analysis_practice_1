@@ -1,7 +1,7 @@
 [General]
 automatic_nested_transactions=1
 AutomaticTransactions=1
-DefaultRunLogic=uspOSH.185
+DefaultRunLogic=uspAnI.31
 Encoding=ANSI
 XlBridgeTimeout=120
 [Iterations]

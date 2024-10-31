@@ -1,0 +1,153 @@
+28 11 1730392886 2 201889056 935578538 1699564
+28 4 UC3_BookingTickets 1 1730392887 0 UC3_BookingTickets localhost 0 1
+28 10 localhost 28 0 0
+28 0 UC3_BookingTickets 1 1730392887 0 localhost 0
+28 8 UC3_BookingTickets 1  0 0
+28 2 UC3_BookingTickets 1 1730392887 0 p 0 0
+28 4 UC2_SearchTicket 1 1730392902 0 UC2_SearchTicket localhost 0 1
+28 0 UC2_SearchTicket 1 1730392902 0 localhost 0
+28 8 UC2_SearchTicket 1  0 0
+28 2 UC2_SearchTicket 1 1730392902 0 p 0 0
+28 4 UC4_ViewingTravelList 1 1730392917 0 UC4_ViewingTravelList localhost 0 1
+28 0 UC4_ViewingTravelList 1 1730392917 0 localhost 0
+28 8 UC4_ViewingTravelList 1  0 0
+28 2 UC4_ViewingTravelList 1 1730392917 0 p 0 0
+28 4 UC5_DeletingReservation 1 1730392932 0 UC5_DeletingReservation localhost 0 1
+28 0 UC5_DeletingReservation 1 1730392932 0 localhost 0
+28 8 UC5_DeletingReservation 1  0 0
+28 2 UC5_DeletingReservation 1 1730392932 0 p 0 0
+28 4 UC3_BookingTickets 2 1730392947 0 UC3_BookingTickets localhost 0 1
+28 0 UC3_BookingTickets 2 1730392947 0 localhost 0
+28 8 UC3_BookingTickets 2  0 0
+28 2 UC3_BookingTickets 2 1730392947 0 p 0 0
+28 4 UC2_SearchTicket 2 1730392962 0 UC2_SearchTicket localhost 0 1
+28 0 UC2_SearchTicket 2 1730392962 0 localhost 0
+28 8 UC2_SearchTicket 2  0 0
+28 2 UC2_SearchTicket 2 1730392962 0 p 0 0
+28 4 UC7_RegistrationRandomUsers 1 1730392977 0 UC7_RegistrationRandomUsers localhost 0 1
+28 0 UC7_RegistrationRandomUsers 1 1730392977 0 localhost 0
+28 8 UC7_RegistrationRandomUsers 1  0 0
+28 2 UC7_RegistrationRandomUsers 1 1730392977 0 p 0 0
+28 4 UC1_LoginLogout 1 1730392992 0 UC1_LoginLogout localhost 0 1
+28 0 UC1_LoginLogout 1 1730392992 0 localhost 0
+28 8 UC1_LoginLogout 1  0 0
+28 2 UC1_LoginLogout 1 1730392992 0 p 0 0
+28 4 UC3_BookingTickets 3 1730393007 0 UC3_BookingTickets localhost 0 1
+28 0 UC3_BookingTickets 3 1730393007 0 localhost 0
+28 8 UC3_BookingTickets 3  0 0
+28 2 UC3_BookingTickets 3 1730393007 0 p 0 0
+28 4 UC2_SearchTicket 3 1730393022 0 UC2_SearchTicket localhost 0 1
+28 0 UC2_SearchTicket 3 1730393022 0 localhost 0
+28 8 UC2_SearchTicket 3  0 0
+28 2 UC2_SearchTicket 3 1730393022 0 p 0 0
+28 4 UC2_SearchTicket 4 1730393037 0 UC2_SearchTicket localhost 0 1
+28 0 UC2_SearchTicket 4 1730393037 0 localhost 0
+28 8 UC2_SearchTicket 4  0 0
+28 2 UC2_SearchTicket 4 1730393037 0 p 0 0
+28 4 UC3_BookingTickets 4 1730393052 0 UC3_BookingTickets localhost 0 1
+28 0 UC3_BookingTickets 4 1730393052 0 localhost 0
+28 8 UC3_BookingTickets 4  0 0
+28 2 UC3_BookingTickets 4 1730393052 0 p 0 0
+28 4 UC4_ViewingTravelList 2 1730393067 0 UC4_ViewingTravelList localhost 0 1
+28 0 UC4_ViewingTravelList 2 1730393067 0 localhost 0
+28 8 UC4_ViewingTravelList 2  0 0
+28 2 UC4_ViewingTravelList 2 1730393067 0 p 0 0
+28 4 UC5_DeletingReservation 2 1730393082 0 UC5_DeletingReservation localhost 0 1
+28 0 UC5_DeletingReservation 2 1730393082 0 localhost 0
+28 8 UC5_DeletingReservation 2  0 0
+28 2 UC5_DeletingReservation 2 1730393082 0 p 0 0
+28 4 UC7_RegistrationRandomUsers 2 1730393097 0 UC7_RegistrationRandomUsers localhost 0 1
+28 0 UC7_RegistrationRandomUsers 2 1730393097 0 localhost 0
+28 8 UC7_RegistrationRandomUsers 2  0 0
+28 2 UC7_RegistrationRandomUsers 2 1730393097 0 p 0 0
+28 4 UC2_SearchTicket 5 1730393112 0 UC2_SearchTicket localhost 0 1
+28 0 UC2_SearchTicket 5 1730393112 0 localhost 0
+28 8 UC2_SearchTicket 5  0 0
+28 2 UC2_SearchTicket 5 1730393112 0 p 0 0
+28 4 UC3_BookingTickets 5 1730393127 0 UC3_BookingTickets localhost 0 1
+28 0 UC3_BookingTickets 5 1730393127 0 localhost 0
+28 8 UC3_BookingTickets 5  0 0
+28 2 UC3_BookingTickets 5 1730393127 0 p 0 0
+28 4 UC1_LoginLogout 2 1730393142 0 UC1_LoginLogout localhost 0 1
+28 0 UC1_LoginLogout 2 1730393142 0 localhost 0
+28 8 UC1_LoginLogout 2  0 0
+28 2 UC1_LoginLogout 2 1730393142 0 p 0 0
+28 4 UC2_SearchTicket 6 1730393157 0 UC2_SearchTicket localhost 0 1
+28 0 UC2_SearchTicket 6 1730393157 0 localhost 0
+28 8 UC2_SearchTicket 6  0 0
+28 2 UC2_SearchTicket 6 1730393157 0 p 0 0
+28 4 UC3_BookingTickets 6 1730393172 0 UC3_BookingTickets localhost 0 1
+28 0 UC3_BookingTickets 6 1730393172 0 localhost 0
+28 8 UC3_BookingTickets 6  0 0
+28 2 UC3_BookingTickets 6 1730393172 0 p 0 0
+28 4 UC2_SearchTicket 7 1730393187 0 UC2_SearchTicket localhost 0 1
+28 0 UC2_SearchTicket 7 1730393187 0 localhost 0
+28 8 UC2_SearchTicket 7  0 0
+28 2 UC2_SearchTicket 7 1730393187 0 p 0 0
+28 4 UC3_BookingTickets 7 1730393202 0 UC3_BookingTickets localhost 0 1
+28 0 UC3_BookingTickets 7 1730393202 0 localhost 0
+28 8 UC3_BookingTickets 7  0 0
+28 2 UC3_BookingTickets 7 1730393202 0 p 0 0
+28 4 UC4_ViewingTravelList 3 1730393217 0 UC4_ViewingTravelList localhost 0 1
+28 0 UC4_ViewingTravelList 3 1730393217 0 localhost 0
+28 8 UC4_ViewingTravelList 3  0 0
+28 2 UC4_ViewingTravelList 3 1730393217 0 p 0 0
+28 4 UC5_DeletingReservation 3 1730393232 0 UC5_DeletingReservation localhost 0 1
+28 0 UC5_DeletingReservation 3 1730393232 0 localhost 0
+28 8 UC5_DeletingReservation 3  0 0
+28 2 UC5_DeletingReservation 3 1730393232 0 p 0 0
+28 4 UC7_RegistrationRandomUsers 3 1730393247 0 UC7_RegistrationRandomUsers localhost 0 1
+28 0 UC7_RegistrationRandomUsers 3 1730393248 0 localhost 0
+28 8 UC7_RegistrationRandomUsers 3  0 0
+28 2 UC7_RegistrationRandomUsers 3 1730393248 0 p 0 0
+28 4 UC2_SearchTicket 8 1730393263 0 UC2_SearchTicket localhost 0 1
+28 0 UC2_SearchTicket 8 1730393263 0 localhost 0
+28 8 UC2_SearchTicket 8  0 0
+28 2 UC2_SearchTicket 8 1730393263 0 p 0 0
+28 4 UC3_BookingTickets 8 1730393278 0 UC3_BookingTickets localhost 0 1
+28 0 UC3_BookingTickets 8 1730393278 0 localhost 0
+28 8 UC3_BookingTickets 8  0 0
+28 2 UC3_BookingTickets 8 1730393278 0 p 0 0
+28 4 UC1_LoginLogout 3 1730393293 0 UC1_LoginLogout localhost 0 1
+28 0 UC1_LoginLogout 3 1730393293 0 localhost 0
+28 8 UC1_LoginLogout 3  0 0
+28 2 UC1_LoginLogout 3 1730393293 0 p 0 0
+28 4 UC2_SearchTicket 9 1730393308 0 UC2_SearchTicket localhost 0 1
+28 0 UC2_SearchTicket 9 1730393308 0 localhost 0
+28 8 UC2_SearchTicket 9  0 0
+28 2 UC2_SearchTicket 9 1730393308 0 p 0 0
+28 4 UC3_BookingTickets 9 1730393323 0 UC3_BookingTickets localhost 0 1
+28 0 UC3_BookingTickets 9 1730393323 0 localhost 0
+28 8 UC3_BookingTickets 9  0 0
+28 2 UC3_BookingTickets 9 1730393323 0 p 0 0
+28 1 UC1_LoginLogout 2 1730397043 0 2
+28 1 UC2_SearchTicket 6 1730397043 0 2
+28 1 UC4_ViewingTravelList 2 1730397043 0 2
+28 1 UC3_BookingTickets 6 1730397043 0 2
+28 1 UC7_RegistrationRandomUsers 2 1730397043 0 2
+28 1 UC5_DeletingReservation 2 1730397043 0 2
+28 1 UC2_SearchTicket 2 1730397043 0 2
+28 1 UC2_SearchTicket 3 1730397043 0 2
+28 1 UC7_RegistrationRandomUsers 3 1730397043 0 2
+28 1 UC3_BookingTickets 7 1730397043 0 2
+28 1 UC2_SearchTicket 4 1730397043 0 2
+28 1 UC2_SearchTicket 8 1730397043 0 2
+28 1 UC2_SearchTicket 1 1730397043 0 2
+28 1 UC2_SearchTicket 5 1730397043 0 2
+28 1 UC4_ViewingTravelList 3 1730397043 0 2
+28 1 UC4_ViewingTravelList 1 1730397043 0 2
+28 1 UC7_RegistrationRandomUsers 1 1730397043 0 2
+28 1 UC1_LoginLogout 3 1730397043 0 2
+28 1 UC5_DeletingReservation 1 1730397043 0 2
+28 1 UC1_LoginLogout 1 1730397043 0 2
+28 1 UC2_SearchTicket 9 1730397043 0 2
+28 1 UC3_BookingTickets 9 1730397043 0 2
+28 1 UC3_BookingTickets 8 1730397044 0 2
+28 1 UC5_DeletingReservation 3 1730397046 0 2
+28 1 UC3_BookingTickets 4 1730397046 0 2
+28 1 UC2_SearchTicket 7 1730397053 0 2
+28 1 UC3_BookingTickets 5 1730397061 0 2
+28 1 UC3_BookingTickets 3 1730397064 0 2
+28 1 UC3_BookingTickets 2 1730397065 0 2
+28 1 UC3_BookingTickets 1 1730397068 0 2
+28 12 1730397068 1 1730397068 0 1730397068

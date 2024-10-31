@@ -7,9 +7,9 @@ Result_file=f:\git\analysis_practice_1\analysis\results_maximum_search_t\results
 Description=
 ResultName=results_Maximum_search_t
 Time_Zone=-14400
-Start_time=1730364332
+Start_time=1730377141
 Daylight_Bias=0
-Stop_time=1730371795
+Stop_time=1730384598
 
 [Configuration]
 Public_local=1
