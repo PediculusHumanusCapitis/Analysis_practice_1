@@ -6,13 +6,13 @@ IsSummaryData=0
 TimeFormat=0
 SesLang=RUS
 ABuild=0
-DataBaseName=resu138099879DB
+DataBaseName=resu228217037DB
 DBType=1
 CurrServer=DESKTOP-75HJ5OI
 CurrUser=sa
 CurrPswd===
 StorageLoc=\\DESKTOP-75HJ5OI\Data\
-PhStorageLoc=C:\MSSQL7\Data
+PhStorageLoc=C:\MSSQL7\Data\
 LocStorageLoc=
 LocPhStorageLoc=
 WinIntSec=0
@@ -23,7 +23,7 @@ UseSpecMSSQLParams=1
 NumResults=1
 
 [Data Config]
-CollectionMode=2
+CollectionMode=3
 IngnoreFlds=Vuser ID
 IngnoreUIFlds=VuserID
 AggSecGran=1
@@ -38,7 +38,7 @@ FEndTime=0
 
 [Result0]
 LRRID=
-ResultPath=f:\Git\Controller_practice_1\Analysis\results_debugging_test\results_debugging_test.lrr
+ResultPath=F:\Git\Analysis_practice_1\Analysis\results_debugging_test\results_debugging_test.lrr
 ResultTDPath=
 NumFilters=0
 ScenarioTimeZone=-14400
@@ -46,7 +46,7 @@ DaylightSavingSecsAddition=0
 ScenarioStartTime=1730243369
 ScenarioEndTime=1730244874
 ResInSD=0
-WebGran=5
+WebGran=0
 FilterEdge=0
 FSartTime=0
 FEndTime=0

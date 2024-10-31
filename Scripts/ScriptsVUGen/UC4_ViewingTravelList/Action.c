@@ -14,17 +14,15 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(14);
 	
-	web_reg_find("Text=<B>{UserFName} {UserLName}",LAST);
-	web_reg_find("Text=Flight Transaction Summary",LAST);
+	web_reg_find("Text=Itinerary",LAST);
 	web_image("Itinerary Button", 
 		"Alt=Itinerary Button", 
 		"Snapshot=t9.inf", 
 		LAST);
 
 	lr_end_transaction("go_to_itinerary",LR_AUTO);
+	lr_think_time(5);
 
 	Logout();
 

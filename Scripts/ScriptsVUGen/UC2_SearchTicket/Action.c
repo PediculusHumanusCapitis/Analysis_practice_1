@@ -165,8 +165,7 @@ lr_save_param_regexp(lr_eval_string("{AllCities}"),
 //	                      "Ordinal=ALL",
 //	                      LAST);
     
-	web_reg_find("Text=<B>{UserFName} {UserLName}",LAST);
-	web_reg_find("Text=Flight Transaction Summary",LAST);
+	web_reg_find("Text=Itinerary",LAST);
 	
 	web_url("Itinerary Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", 

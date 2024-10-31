@@ -1,0 +1,125 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP141",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1730363075901
+            },
+            {
+                "stepId": "STEP142",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t2.inf",
+                "time": 1730363076175
+            },
+            {
+                "stepId": "STEP143",
+                "stepName": "Url: header.html",
+                "infFile": "t3.inf",
+                "time": 1730363076250
+            },
+            {
+                "stepId": "STEP144",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t4.inf",
+                "time": 1730363076566
+            },
+            {
+                "stepId": "STEP145",
+                "stepName": "Image: Search Flights Button",
+                "infFile": "t5.inf",
+                "time": 1730363076912
+            },
+            {
+                "stepId": "STEP146",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t6.inf",
+                "time": 1730363077248
+            },
+            {
+                "stepId": "STEP147",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t7.inf",
+                "time": 1730363078980
+            },
+            {
+                "stepId": "STEP148",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t8.inf",
+                "time": 1730363079263
+            },
+            {
+                "stepId": "STEP149",
+                "stepName": "Custom Request: reservations.pl_3",
+                "infFile": "t9.inf",
+                "time": 1730363082180
+            },
+            {
+                "stepId": "STEP150",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t10.inf",
+                "time": 1730363082472
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "go_to_web_tours",
+                "rawStartTime": 1730363075629,
+                "rawEndTime": 1730363076250,
+                "thinkTime": 0.0,
+                "wastedTime": 0.1834120750427246
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1730363076253,
+                "rawEndTime": 1730363076571,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05968022346496582
+            },
+            {
+                "transactionName": "go_to_flights",
+                "rawStartTime": 1730363076581,
+                "rawEndTime": 1730363077262,
+                "thinkTime": 0.0,
+                "wastedTime": 0.12231874465942383
+            },
+            {
+                "transactionName": "find_flight",
+                "rawStartTime": 1730363077293,
+                "rawEndTime": 1730363078993,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05779741096496582
+            },
+            {
+                "transactionName": "choosing a flight",
+                "rawStartTime": 1730363079024,
+                "rawEndTime": 1730363079271,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05563211441040039
+            },
+            {
+                "transactionName": "booking",
+                "rawStartTime": 1730363079303,
+                "rawEndTime": 1730363082192,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05580306053161621
+            },
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1730363082224,
+                "rawEndTime": 1730363082472,
+                "thinkTime": 0.0,
+                "wastedTime": 0.055116891860961917
+            },
+            {
+                "transactionName": "UC3_BookingTickets",
+                "rawStartTime": 1730363075613,
+                "rawEndTime": 1730363082486,
+                "thinkTime": 0.0,
+                "wastedTime": 0.5897605209350586
+            }
+        ]
+    }
+]

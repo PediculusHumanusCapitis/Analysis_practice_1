@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\ArtZay\Documents\GitHub\VUGen_practice_1\ScriptsVUGen\UC4_ViewingTravelList
+-IF:\Git\Analysis_practice_1\Scripts\ScriptsVUGen\UC4_ViewingTravelList
 -IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc4_viewingtravellist\\logfile.log
-c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc4_viewingtravellist\\combined_UC4_ViewingTravelList.c
-c:\users\artzay\documents\github\vugen_practice_1\scriptsvugen\uc4_viewingtravellist\\pre_cci.c
+-ef:\git\analysis_practice_1\scripts\scriptsvugen\uc4_viewingtravellist\\logfile.log
+f:\git\analysis_practice_1\scripts\scriptsvugen\uc4_viewingtravellist\\combined_UC4_ViewingTravelList.c
+f:\git\analysis_practice_1\scripts\scriptsvugen\uc4_viewingtravellist\\pre_cci.c

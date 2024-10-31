@@ -1,4 +1,4 @@
-# 1 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c"
+# 1 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c"
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
@@ -966,7 +966,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
+# 1 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
 
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
@@ -1132,7 +1132,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
+# 2 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
 
 # 1 "globals.h" 1
 
@@ -2723,14 +2723,14 @@ Logout(){
 
 
 
-# 3 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
+# 3 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
+# 4 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -3007,12 +3007,12 @@ Action()
 
 	return 0;
 }
-# 5 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
+# 5 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
+# 6 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc3_bookingtickets\\\\combined_UC3_BookingTickets.c" 2
 

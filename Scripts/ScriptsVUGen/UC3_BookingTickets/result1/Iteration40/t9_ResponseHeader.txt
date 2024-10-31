@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 31 Oct 2024 08:27:50 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Wed, 30 Oct 2024 08:27:50 GMT
+Set-Cookie: MTUserInfo=firstName&Max&username&max&address2&New%20York&hash&88&address1&Bronx&lastName&Payne%0A; path=/
+Keep-Alive: timeout=5, max=88
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

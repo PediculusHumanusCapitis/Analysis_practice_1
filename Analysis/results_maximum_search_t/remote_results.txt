@@ -1,0 +1,2 @@
+[Hosts]
+localhost=f:\git\analysis_practice_1\analysis\results_maximum_search_t\localhost_1.eve

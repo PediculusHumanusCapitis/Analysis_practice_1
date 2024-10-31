@@ -1,4 +1,4 @@
-# 1 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c"
+# 1 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c"
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
@@ -966,7 +966,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
+# 1 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
 
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
@@ -1132,7 +1132,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
+# 2 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
 
 # 1 "globals.h" 1
 
@@ -2632,7 +2632,6 @@ GoToHomePage(){
 	web_add_auto_header("Sec-Fetch-Site", 
 		"same-origin");
 
-	lr_think_time(14);
 	
 	web_reg_find("Text=Welcome to the Web Tours site\.","LAST");
 	
@@ -2666,6 +2665,7 @@ GoToHomePage(){
 		"LAST");
 
 	lr_end_transaction("go_to_web_tours",2);
+	lr_think_time(3);
 }
 Login(){
 	lr_start_transaction("login");
@@ -2675,8 +2675,6 @@ Login(){
 
 	web_add_auto_header("Sec-Fetch-User", 
 		"?1");
-
-	lr_think_time(17);
 
 	web_submit_data("login.pl", 
 		"Action=http://localhost:1080/cgi-bin/login.pl", 
@@ -2699,9 +2697,8 @@ Login(){
 
 	(web_remove_auto_header("Sec-Fetch-User", "ImplicitGen=Yes", "LAST"));
 
-	lr_think_time(8);
-
 	lr_end_transaction("login",2);
+	lr_think_time(3);
 }
 
 Logout(){
@@ -2709,8 +2706,6 @@ Logout(){
 	
 	web_add_header("Sec-Fetch-User", 
 		"?1");
-
-	lr_think_time(15);
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 
@@ -2723,19 +2718,20 @@ Logout(){
 		"LAST");
 
 	lr_end_transaction("logout",2);
+	lr_think_time(3);
 }
 # 13 "globals.h" 2
 
 
 
-# 3 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
+# 3 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
+# 4 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2757,8 +2753,7 @@ Action()
 
 	lr_think_time(14);
 	
-	web_reg_find("Text=<B>{UserFName} {UserLName}","LAST");
-	web_reg_find("Text=Flight Transaction Summary","LAST");
+	web_reg_find("Text=Itinerary","LAST");
 	web_image("Itinerary Button", 
 		"Alt=Itinerary Button", 
 		"Snapshot=t9.inf", 
@@ -2772,12 +2767,12 @@ Action()
 
 	return 0;
 }
-# 5 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
+# 5 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "c:\\users\\artzay\\documents\\github\\vugen_practice_1\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
+# 6 "f:\\git\\analysis_practice_1\\scripts\\scriptsvugen\\uc4_viewingtravellist\\\\combined_UC4_ViewingTravelList.c" 2
 

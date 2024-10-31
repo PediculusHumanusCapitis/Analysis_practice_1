@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 31 Oct 2024 08:27:18 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Wed, 30 Oct 2024 08:27:18 GMT
+Set-Cookie: MTUserInfo=firstName&Kratos&username&kratos&address2&Norse%20Realms&hash&19&address1&Wild%20Woods&lastName&Spartan%0A; path=/
+Keep-Alive: timeout=5, max=88
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
